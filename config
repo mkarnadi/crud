@@ -1,7 +1,7 @@
 <?php
 /**
  * using mysqli_connect for database connection
-   untuk koneksi ke database
+   untuk koneksi ke database nya
  */
 
 $databaseHost = 'localhost';
