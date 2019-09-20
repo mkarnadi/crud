@@ -1,6 +1,6 @@
 <?php
 // Create database connection using config file
-// Buat memasukkan file koneksi config yang telah dibuat
+// Buat memasukkan file koneksi config yang telah dibuat sebelumnya
 include_once("config.php");
 
 // Fetch all users data from database
