@@ -2,7 +2,7 @@
 // include database connection file
 include_once("config.php");
 
-// Get id from URL to delete that user
+// Get id from URL to delete that user delette
 $id = $_GET['id'];
 
 // Delete user row from table based on given id
