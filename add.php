@@ -1,3 +1,4 @@
+
 <html>
 <head>
     <title>Add Users</title>
@@ -42,7 +43,7 @@
         // Insert user data into table
         $result = mysqli_query($mysqli, "INSERT INTO users(name,email,mobile) VALUES('$name','$email','$mobile')");
 
-        // Show message when user added
+        // Show message when user addedd
         echo "User added successfully. <a href='index.php'>View Users</a>";
     }
     ?>
